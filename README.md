@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PritamFulari
-- 👀 I’m interested in AI-ML  
-- 🌱 I’m currently learning React , AI & ML
+- 👀 I’m interested in Fullstack Development 
+- 🌱 I’m currently learning React, Nextjs
 - 💞️ I’m looking to collaborate on React Projects
 
 
